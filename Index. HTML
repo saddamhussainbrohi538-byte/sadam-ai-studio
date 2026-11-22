@@ -1,0 +1,22 @@
+index.htm<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SADAM AI STUDIO</title>
+<style>
+  body { margin:0; font-family:sans-serif; background:#0f0f14; color:#fff; text-align:center; padding:24px; }
+  h1 { font-size:26px; margin-top:40px; }
+  p { color:#aaa; }
+  button { display:block; width:100%; max-width:320px; margin:14px auto; padding:16px;
+           font-size:17px; border:none; border-radius:12px; background:#6c5ce7; color:#fff; }
+</style>
+</head>
+<body>
+  <h1>🎬 SADAM AI STUDIO</h1>
+  <p>Your AI video editor</p>
+  <button>✂️ Trim & Cut</button>
+  <button>💬 Auto Captions</button>
+  <button>✨ AI Effects</button>
+</body>
+</html>
