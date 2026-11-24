@@ -20,3 +20,4 @@ index.htm<!DOCTYPE html>
   <button>✨ AI Effects</button>
 </body>
 </html>
+<video src="myvideo.mp4" controls playsinline width="100%"></video>
